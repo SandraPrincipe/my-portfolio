@@ -10,7 +10,7 @@ function Blog() {
             </article>
             <section id="post" className="blog-post">
                 <h5> Day 1: 3/28/26</h5>
-                <img src="./images/buckeesign.jpg" alt="buckeesSign"/>
+                <img src="/my-portfolio/images/buckeesign.jpg" alt="buckeesSign"/>
                 <p>
                     One of my first days of spring break, I went to Texas to visit my older brother!
                     The first day I was there, we took a trip to see a famous, HUGE gas station called Buckees.
@@ -21,12 +21,12 @@ function Blog() {
                     whole experience thats similar to an amusement park.
                     Below is a Buckee plushie I got!
                 </p>
-                <img src="./images/buckee.jpg" alt="buckeesPlush" />
+                <img src="/my-portfolio/images/buckee.jpg" alt="buckeesPlush" />
             </section>
 
             <section id="post" className="blog-post">
                 <h5> Day 2: 3/29/26</h5>
-                <img src="./images/rodeo.jpg" alt="rodeoDay" />
+                <img src="/my-portfolio/images/rodeo.jpg" alt="rodeoDay" />
                 <p>
                     One of the most classic Texan acitivies we had to do was going to a rodeo. Bulls, mutton bustin', 
                     horseback riding, etc, etc. Everything you can think when you think rodeo? I saw it! And of course, it wouldn't be
@@ -50,13 +50,13 @@ function Blog() {
                     onions, tomatoes, mayo, mustard, ketchup, lettuce... did you guess what we made? If you said burgers, you would be 
                     100% right!! My brother makes one the best burgers I've had and no he did NOT pay me to type that!
                 </p>
-                <img src="./images/cookout.jpg" alt="cookout" />
+                <img src="/my-portfolio/images/cookout.jpg" alt="cookout" />
                 <p>
                     I haven't mentioned them before but my brother has two pets: a cat and a dog. If there's one thing 
                     you should know about me, I love cats. Dogs...eh. The cat's name is Cici and the dogs name is Leon. 
                     They both act like siblings, annoying and hitting each other. Classic.
                 </p>
-                <img src="./images/leon.png" alt="dog" />
+                <img src="/my-portfolio/images/leon.png" alt="dog" />
             </section>
 
             <section id="post" className="blog-post">
@@ -73,7 +73,7 @@ function Blog() {
                     is the most spoken language? Wild. Though, I did notice a lot of German achitecture around 
                     different towns. So that was something really cool to learn!
                 </p>
-                <img src="./images/riverwalk.png" alt="riverwalk" />
+                <img src="/my-portfolio/images/riverwalk.png" alt="riverwalk" />
             </section>
             <section id="post" className="blog-post">
                 <h5> Day 5: 4/1/26</h5>
@@ -88,7 +88,7 @@ function Blog() {
                     It's very similar to In n Out, which we all know every Californian loves. The food feels very fresh and has the history written on the wall. 
                     Then after such a good meal, it was off to the airport.
                 </p>
-                <img src="./images/whataburger.jpg" alt="whataburger" />
+                <img src="/my-portfolio/images/whataburger.jpg" alt="whataburger" />
             </section>
         </main>
         
