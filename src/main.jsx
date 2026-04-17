@@ -6,7 +6,7 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter baename="SandraPrincipe/my-porfolio">
+    <BrowserRouter baename="/my-porfolio">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
